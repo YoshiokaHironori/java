@@ -71,11 +71,11 @@ public class Qes2 {
 		}
 
 		String input1 = null;
-		{
+		
 
 			if (input1 == null || input1.isEmpty()) {
 				System.out.println("入力が無効です");
-			}
+			
 
 			int day = 7;
 			switch (day) {

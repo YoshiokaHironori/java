@@ -73,7 +73,13 @@ public class Qes1 {
 		String oo =text.replace("Java","Python");
 		System.out.print(oo);
 		
+		float ans = 7 / 6;
+		System.out.println(ans);
 		
+		int a = 10;
+		int b = 10;
+		System.out.println(++a + 50);
+		System.out.println(b++ + 50);
 
 	}
 
